@@ -8,8 +8,8 @@ This simple extension that uses [Want Words](https://github.com/thunlp/WantWords
 ![User Count](https://smithsdownunder.com/get_chrome_extension_users/?id=lcngkpkcihkbhjjnkpfecokdkbfbhaah&output=img&padding=10 "User Count") -->
 
 ### Usage
-![Screenshot](https://github.com/shweshi/Google-Meet-Auto-Disable-Camera-And-Mute-Audio/blob/master/screenshots%20need-words-1.png)
-![Screenshot](https://github.com/shweshi/Google-Meet-Auto-Disable-Camera-And-Mute-Audio/blob/master/screenshots%20need-words-2.png)
+![Screenshot](https://raw.githubusercontent.com/shweshi/need-words/master/screenshots/need-words-1.png)
+![Screenshot](https://raw.githubusercontent.com/shweshi/need-words/master/screenshots/need-words-2.png)
 
 ### Tech
 HTML, CSS, JavaScript
